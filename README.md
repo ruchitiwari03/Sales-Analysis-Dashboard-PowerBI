@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="Background_Image.jpg" alt="Project Banner" width="100%">
-</p>
+
 
 <h1 align="center">📊 Data Analytics & Business Insights Portfolio</h1>
 
@@ -89,13 +87,13 @@ Download and open `Ecommerce_Sales_Insights.pbix` using **Power BI Desktop**.
 
 ---
 
-## ⚙️ How to Run the Project
+**## ⚙️ How to Run the Project
 
 ### 1️⃣ Clone the repository
 ```bash
 git clone https://github.com/ruchitiwari03/your-repository-name.git
 
-2️⃣ Explore the data
+ 2️⃣ Explore the data**
 
 Open .csv files using Python / Excel
 
@@ -135,4 +133,4 @@ Ruchi Tiwari
 
 🔗 LinkedIn: https://www.linkedin.com/in/ruchitiwari03
 
-💻 GitHub: https://github.com/ruchitiwari03
+💻 GitHub: https://github.com/ruchitiwari03**
